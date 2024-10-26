@@ -1,3 +1,9 @@
+# Shadcn UI + Next.js Project
+
+<p align="center">
+    <img src="https://github.com/jsdeveloperr/shadcn-nextjs/blob/main/app/assets/shadcnui-nextjs-project.jpg" width="500" alt="Shadcn UI and Next.js Project" />
+</p>
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
